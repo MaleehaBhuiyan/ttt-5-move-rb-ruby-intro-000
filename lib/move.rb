@@ -8,8 +8,7 @@ end
 
 # code your input_to_index and move method here!
 
-x = "1"
-def index(x)
+
+def input_to_index(x)
   puts x.to_i - 1
 end
-index(x)
