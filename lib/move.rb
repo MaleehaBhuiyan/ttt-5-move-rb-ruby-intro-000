@@ -15,5 +15,5 @@ end
 
 
 def move(board_array,index,player="X")
-  board_array[index] = player 
+  board_array[index] = player
 end
