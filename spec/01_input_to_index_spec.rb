@@ -25,8 +25,3 @@ describe '#input_to_index' do
 
 end
 
-x = "1"
-def index(x)
-  puts x.to_i - 1
-end
-index(x)
