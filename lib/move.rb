@@ -10,5 +10,5 @@ end
 
 
 def input_to_index(x)
-  puts x.to_i - 1
+  return x.to_i - 1
 end
