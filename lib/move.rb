@@ -12,3 +12,7 @@ end
 def input_to_index(x)
   return x.to_i - 1
 end
+
+
+def move(board_array,index,player="X")
+end
