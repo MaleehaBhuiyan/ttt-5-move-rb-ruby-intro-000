@@ -7,3 +7,9 @@ def display_board(board)
 end
 
 # code your input_to_index and move method here!
+
+x = "1"
+def index(x)
+  puts x.to_i + 1 
+end 
+index(x)
