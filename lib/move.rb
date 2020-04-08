@@ -10,6 +10,6 @@ end
 
 x = "1"
 def index(x)
-  puts x.to_i + 1 
+  puts x.to_i + 1
 end 
 index(x)
